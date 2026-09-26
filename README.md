@@ -10,4 +10,4 @@ Olá! Sou o Gustavo Zeferino
 - Phyton
 - Documentação De Projetos
 ## Meus projetos
-- [Calculadora em C](link-do-repositorio)
+- [Calculadora em C](https://github.com/gustaqwx/Calculadora-c)
